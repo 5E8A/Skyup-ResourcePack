@@ -18,7 +18,7 @@ Skyup ResourcePack to paczka zasobów dodająca customowe tekstury do itemów na
 - Stattrack
 - Tajemnice Skyupa
 - Kapcie Lotnika
-- Wszystkie części armora Protection 4
+- Wszystkie części armora Protection 6
 - Wszystkie Przynęty
 - Wszystkie Żetony
 - Wszystkie Klejnoty kupieckie
