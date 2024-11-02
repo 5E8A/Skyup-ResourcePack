@@ -20,6 +20,7 @@ Skyup ResourcePack to paczka zasobów dodająca customowe tekstury do itemów na
 - Kapcie Lotnika
 - Plecak
 - Klejnot Klucznika
+- Magiczne Wiaderko
 - Oceaniczna i Mistyczna ruda
 - Wszystkie Klucze
 - Wszystkie części armora Protection 6
@@ -30,5 +31,6 @@ Skyup ResourcePack to paczka zasobów dodająca customowe tekstury do itemów na
 ## Zmienione tekstury minecraftowe
 - Enchantowane Książki
 - Enchantment Glint
+- Niewidzialny Item Frame
 #
 *Skyup ResourcePack NIE jest oficjalną paczką zasobów tworzoną przez SKYUP*
