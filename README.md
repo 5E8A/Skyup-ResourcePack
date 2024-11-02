@@ -21,6 +21,7 @@ Skyup ResourcePack to paczka zasobów dodająca customowe tekstury do itemów na
 - Plecak
 - Klejnot Klucznika
 - Oceaniczna i Mistyczna ruda
+- Wszystkie Klucze
 - Wszystkie części armora Protection 6
 - Wszystkie Przynęty
 - Wszystkie Żetony
