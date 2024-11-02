@@ -1,8 +1,8 @@
 ## Opis
 Skyup ResourcePack to paczka zasobów dodająca customowe tekstury do itemów na serwerze **skyup.pl** <br>
 **Paczka działa tylko z modem [CIT Resewn](https://modrinth.com/mod/cit-resewn)** na wersję **1.21.1**
-## Edycja XXVI
-*Work in Progress*
+## Pobieranie
+<b>[Edycja XXVI 1.0.0](https://github.com/TYPOWYSEB4/Skyup-ResourcePack/raw/refs/heads/main/%C2%A7b%C2%A7lXXVI%20%C2%A7f%C2%A7lEdycja%20%C2%A7e%C2%A7l1.0.0.zip)</b>
 ## Showcase
 ![ryby](https://github.com/TYPOWYSEB4/Skyup-ResourcePack/blob/main/ryby.png?raw=true) <br>
 ![klucze](https://github.com/TYPOWYSEB4/Skyup-ResourcePack/blob/main/klucze.png?raw=true) <br>
