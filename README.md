@@ -3,7 +3,7 @@ Skyup ResourcePack to paczka zasobów dodająca customowe tekstury do itemów na
 **Paczka działa tylko z modem [CIT Resewn](https://modrinth.com/mod/cit-resewn)** na wersję **1.21.1**
 ## Edycja XXVI
 *Work in Progress*
-## Zmienione tekstury
+## Zmienione tekstury serwerowe
 - Wszystkie kilofy (Cymofan, Thor, Urizel)
 - Karambit
 - Azada
@@ -27,5 +27,8 @@ Skyup ResourcePack to paczka zasobów dodająca customowe tekstury do itemów na
 - Wszystkie Żetony
 - Wszystkie Klejnoty kupieckie
 - Wszystkie Ryby
+## Zmienione tekstury minecraftowe
+- Enchantowane Książki
+- Enchantment Glint
 #
 *Skyup ResourcePack NIE jest oficjalną paczką zasobów tworzoną przez SKYUP*
