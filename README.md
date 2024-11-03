@@ -30,6 +30,8 @@ Utwórz wątek w zakładce <b>Issues</b> lub napisz na Discord: <b>typowyseb4</b
 - Tajemnice Skyupa
 - Kapcie Lotnika
 - Plecak
+- Czeki
+- Książka wyzwań
 - Klejnot Klucznika
 - Magiczne Wiaderko
 - Oceaniczna i Mistyczna ruda
