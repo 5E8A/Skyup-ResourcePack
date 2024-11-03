@@ -11,6 +11,9 @@ Skyup ResourcePack to paczka zasobów dodająca customowe tekstury do itemów na
 ![zetony](https://github.com/TYPOWYSEB4/Skyup-ResourcePack/blob/main/zetony.png?raw=true)
 ![inne](https://github.com/TYPOWYSEB4/Skyup-ResourcePack/blob/main/inne.png?raw=true) <br>
 ![ksiazki_wedkarskie](https://github.com/TYPOWYSEB4/Skyup-ResourcePack/blob/main/wedkarskie_ksiazki.png?raw=true)
+## Błędy i Propozycje
+Jeśli znalazłeś błąd w paczce lub masz jakiś pomysł lub propozycję <br>
+Utwórz wątek w zakładce <b>Issues</b> lub napisz na Discord: <b>typowyseb4</b>
 ## Zmienione tekstury serwerowe
 - Wszystkie kilofy (Cymofan, Thor, Urizel)
 - Karambit
